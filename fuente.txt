@@ -1,0 +1,5 @@
+
+
+estilos css para lineas divisorias con la etiqueta hr 
+
+https://coliss.com/articles/build-websites/operation/css/css-snippets-for-horizontal-rules.html
